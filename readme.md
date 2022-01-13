@@ -4,9 +4,10 @@
 <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="200" > 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1200px-Prometheus_software_logo.svg.png" width="100">
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png" width="100" >
+<img src="https://devnot.com/wp-content/uploads/2017/09/docker-compose.jpg" width="200" >
+
 </p>
-<br> 
-</br>
+<br>
 
 
 This is a modified version of [fastapi-prometheus-grafana](https://github.com/Kludex/fastapi-prometheus-grafana) project. I just added a touch of AI!
@@ -74,7 +75,8 @@ docker-compose logs --tail 50
     * Created user similarity and item similarity matrices
 
 <br>
-Blog post (in Turkish): Coming soon!
+
+Blog post (in Turkish): [Reco Model Monitoring - FastAPI + Prometheus + Grafana](https://silverstone1903.github.io/posts/2021/12/reco-model-monitoring)
 
 <br>
 
